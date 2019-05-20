@@ -1,0 +1,23 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Introduction module nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEZR85/npm-library-test.git"
+  },
+  "keywords": [
+    "introduction",
+    "nodejs"
+  ],
+  "author": "Flor Zárate <fzarater@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FEZR85/npm-library-test/issues"
+  },
+  "homepage": "https://github.com/FEZR85/npm-library-test#readme"
+}
